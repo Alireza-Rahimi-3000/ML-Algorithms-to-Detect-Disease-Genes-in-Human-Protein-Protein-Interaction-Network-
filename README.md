@@ -2,8 +2,8 @@
 
 Our point of view on this project
 
-•	Understanding significance of protein–protein interaction organizes in human genome.
-•	Implement MATALB code to identify disease-genes in human genome.
+* Understanding significance of protein–protein interaction organizes in human genome.
+* Implement MATALB code to identify disease-genes in human genome.
 
 Interpret of Data Structure 
 
