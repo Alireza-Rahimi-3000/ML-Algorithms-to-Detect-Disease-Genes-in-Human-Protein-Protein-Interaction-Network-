@@ -1,4 +1,4 @@
-# ML algorithms to detect disease-genes in human protein–protein interaction network 
+# ML Algorithms to Detect Disease-Genes in Human Protein–Protein Interaction Network 
 
 Our point of view on this project
 
