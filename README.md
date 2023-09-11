@@ -18,4 +18,10 @@ Human protein interaction data (PPI) is downloaded from the Human Protein Refere
 * Extract following topological feature from G. As an additional work you can extract more features in order to improve performance4. Normalize and zero mean the topological measures were computed for each node in the PPIs network and each feature vector. 
 * To overcome imbalance problem and avoid bias in sampling, implement sample reduction methods (like Tomek link).
 
+# Project Members
 
+* Alireza Rahimi
+* Kiana Khoblar
+* Mohaddeseh Bashariazar
+* Shayan Hezarkhani
+* Nazanin Jabbari
